@@ -1,0 +1,19 @@
+{
+  "name": "ceds-dvdtheque",
+  "version": "1.0.0",
+  "description": "project ceds-dvdtheque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misila/ceds-dvdtheque.git"
+  },
+  "author": "kfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misila/ceds-dvdtheque/issues"
+  },
+  "homepage": "https://github.com/misila/ceds-dvdtheque#readme"
+}
